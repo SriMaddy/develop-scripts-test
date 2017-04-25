@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/login_btn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:textColor="@color/fb_color"
+        android:text="@string/login"/>
+
+    <Button
+        android:id="@+id/signup_btn"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:textColor="@color/fb_color"
+        android:layout_below="@+id/login_btn"
+        android:text="@string/signup"/>
+
+</RelativeLayout>

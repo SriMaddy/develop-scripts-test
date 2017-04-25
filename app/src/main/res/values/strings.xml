@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DevelopScriptTest</string>
+    <string name="next">NEXT</string>
+    <string name="login">LOGIN WITH FB</string>
+    <string name="signup">SIGNUP WITH FB</string>
+    <string name="facebook_app_id">281667015613899</string>
+    <string name="bride_name">Bride</string>
+    <string name="groom_name">Groom</string>
+    <string name="date_name">Wedding date</string>
+    <string name="location_name">Location</string>
+    <string name="logout_menu">Logout</string>
+</resources>
